@@ -14,8 +14,10 @@ http://localhost:8080/index.html
 ## ssr html
 http://localhost:8080/
 
-## demo 
+## 异步页面
 <img src="./img/async.gif" width = "200px" />
+
+## 同步页面
 <img src="./img/ssr.gif" width = "205xpx" />
 
 
