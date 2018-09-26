@@ -15,10 +15,8 @@ http://localhost:8080/index.html
 http://localhost:8080/
 
 ## demo 
-```html
 <img src="./img/async.gif" width = "200px" />
 <img src="./img/ssr.gif" width = "205xpx" />
-```html
 
 
 ## 性能表现
