@@ -1,11 +1,11 @@
 ## puppeteer SSR 性能测试
 
-## puppeteer ssr performance
+最近研究 UI 自动化测试，本来想看看 puppeteer， 看了下官方文档： https://developers.google.com/web/tools/puppeteer/articles/ssr  发现 SSR 性能表现不俗。 于是想看看 puppeteer 和 Node 做 ssr 渲染哪个更好
 
-## how install ?
+## 安装
 $ npm install
 
-## how run ?
+## 运行
 $ npm run dev
 
 ## async html
@@ -15,8 +15,10 @@ http://localhost:8080/index.html
 http://localhost:8080/
 
 ## demo 
+```html
 <img src="./img/async.gif" width = "200px" />
 <img src="./img/ssr.gif" width = "205xpx" />
+```html
 
 
 ## 性能表现
